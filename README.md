@@ -1,1 +1,1 @@
-Sample Web Page using HTML
+Basic Web Page using HTML
